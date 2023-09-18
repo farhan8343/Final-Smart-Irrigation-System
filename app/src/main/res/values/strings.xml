@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">nodeMCU</string>
+    <string name="moisure_level">Moisure Level</string>
+    <string name="set_notification_nlevel_0_99">Set Notification  Level </string>
+    <string name="set">SET</string>
+    <string name="current_notification_level">Current notification Level = </string>
+    <string name="na">NA</string>
+    <string name="motor">Motor ON / OFF</string>
+    <string name="about_us">About Us</string>
+    <string name="field_1">Field 1 ON / OFF</string>
+    <string name="field_2">Field 2 ON / OFF</string>
+    <string name="motor_is">Motor Status :</string>
+    <string name="launch_activity">Launch Activity</string>
+    <string name="remove_location_updates">Remove Water Level Updates</string>
+    <string name="motor_is_currently_off">Motor is currently OFF</string>
+    <string name="level_scale">Level Scale :</string>
+    <string name="critical_moisture">- Critical moisture level is less than 20%</string>
+    <string name="average_moisture">- Average moisture level is 20% to 60%</string>
+    <string name="good_moisture">- Good moisture level is greater than 60%</string>
+    <string name="switches">Switches</string>
+    <string name="field_2_moisture_level">Field 2 Moisture Level</string>
+    <string name="field_1_moisture_level">Field 1 Moisture Level</string>
+    <string name="supervised_by_dr_yousaf_saeed">Supervised By :</string>
+    <string name="contact_info">farhan8349@gmail.com \n tayyab7050@gmail.com \n yousaf@uoh.edu.pk</string>
+    <string name="farhan_ahmed"><![CDATA[Farhan Ahmed & Tayyab Iqbal]]></string>
+    <string name="by">By :</string>
+    <string name="project_smart"> Smart Irrigation System</string>
+    <string name="about_us_bold">ABOUT US</string>
+    <string name="cancel">Close</string>
+    <string name="_0_99">( 0 – 99 )</string>
+    <string name="project">Project :</string>
+    <string name="dr_yousaf_saeed">Dr.Yousaf Saeed</string>
+    <string name="contact">Contact :</string>
+</resources>
